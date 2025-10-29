@@ -1068,7 +1068,7 @@
     </Option>
     <Option type="Map" name="capa_hospitales">
       <Option type="List" name="data_types">
-        <Option type="int" value="2"/>
+        <Option type="int" value="0"/>
       </Option>
       <Option type="invalid" name="default"/>
       <Option type="invalid" name="defaultGui"/>
@@ -1107,6 +1107,7 @@
     </Option>
     <Option type="Map" name="capa_ocupacion_ilegal">
       <Option type="List" name="data_types">
+        <Option type="int" value="0"/>
         <Option type="int" value="2"/>
       </Option>
       <Option type="invalid" name="default"/>
@@ -1146,7 +1147,7 @@
     </Option>
     <Option type="Map" name="capa_restaurantes_y_bares">
       <Option type="List" name="data_types">
-        <Option type="int" value="2"/>
+        <Option type="int" value="0"/>
       </Option>
       <Option type="invalid" name="default"/>
       <Option type="invalid" name="defaultGui"/>
